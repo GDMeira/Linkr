@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GDMeira/projeto19-linkr-front
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GDMeira/projeto19-linkr-back
